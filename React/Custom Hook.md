@@ -1,0 +1,1 @@
+Custom Hook is a function and this function always starts with  a keyword **use**. This comes handy when exacting repeatable logic in a function.
